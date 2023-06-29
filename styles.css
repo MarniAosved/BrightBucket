@@ -1,0 +1,58 @@
+body {
+    background-color: #faf7e6; /* Light Yellow */
+    color: #000000; /* Black */
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #faf7e6; /* Light Yellow */
+    color: #000000; /* Black */
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    background-color: #FFFFFF; /* White */
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    color: #3e8000; /* Green */
+    margin-top: 0; /* Remove default top margin */
+}
+
+p {
+    margin: 0; /* Remove default margin */
+}
+
+p2 {
+    margin: 0;
+    color: #f1eddb
+}
+
+
+.quote {
+    background-color: #3e8000; /* Brown */
+    color: #FFFFFF; /* White */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+blockquote {
+    font-size: 18px;
+    line-height: 1.4;
+    margin: 0;
+}
+
+cite {
+    font-style: italic;
+    color: #c0b909; /* Yellow? */
+}
+
+
+
+
